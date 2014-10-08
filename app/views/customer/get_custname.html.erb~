@@ -1,0 +1,4 @@
+Helllo...................
+<%= link_to 'go', controller : 'welcome' %>
+
+<%= link_to "newgo", :controller => "customer", :action =>"get_custname" %>
